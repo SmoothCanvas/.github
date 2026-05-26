@@ -1,11 +1,11 @@
 ## Hi there 👋
 
 <h1 align="center">🎨 FreeCanvas</h1>
-<a href="https://lib-ecru.vercel.app">Live Preview/></a>
+
 <p align="center">
 A modern interactive free-hand drawing canvas for creativity, ideas, and smooth sketching.
 </p>
-
+<a href="https://lib-ecru.vercel.app">Live Preview/></a>
 ---
 
 <h2>✨ About the Project</h2>
