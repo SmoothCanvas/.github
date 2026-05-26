@@ -52,7 +52,10 @@ Developers can use it as a module, embed it into web apps, or extend it for cust
 <p>
 It is built with flexibility in mind, so it can be adapted for:
 </p>
-
+<p>
+👉 Try it here:
+<a href="https://YOUR-LIVE-DEMO-LINK.com">FreeCanvas Demo</a>
+</p> 
 <ul>
   <li>Web applications</li>
   <li>Educational tools</li>
