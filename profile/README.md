@@ -113,3 +113,4 @@ Contributions are welcome! Feel free to fork this project, improve it, or build 
 Think of FreeCanvas as a “digital infinite paper” where imagination has no limits.  to try it  
   <a href="https://lib-ecru.vercel.app">try our canvas/></a>
 </p>
+<img width="1920" height="921" alt="image" src="https://github.com/user-attachments/assets/ad6bf8a4-e3c5-4366-a03a-7d7a0fb23467" />
