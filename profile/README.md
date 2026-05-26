@@ -110,5 +110,6 @@ Contributions are welcome! Feel free to fork this project, improve it, or build 
 <h2>🧠 Fun Idea</h2>
 
 <p>
-Think of FreeCanvas as a “digital infinite paper” where imagination has no limits.
+Think of FreeCanvas as a “digital infinite paper” where imagination has no limits.  to try it  
+  <a href="https://lib-ecru.vercel.app>try our canvas</a>
 </p>
