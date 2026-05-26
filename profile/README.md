@@ -1,5 +1,5 @@
 ## Hi there 👋
-<a href="https://lib-ecru.vercel.app">Live Preview/></a>
+<a href="https://lib-ecru.vercel.app">Live Preview</a>
 <h1 align="center">🎨 FreeCanvas</h1>
 
 <p align="center">
