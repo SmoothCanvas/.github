@@ -25,6 +25,7 @@ This project focuses on creativity, minimal design, and real-time free-hand draw
 
 <p align="center">
 <img width="1920" height="925" alt="image" src="https://github.com/user-attachments/assets/10223737-2c6d-4cd4-b3e1-683fc756ac2a" />
+<img width="1334" height="830" alt="image" src="https://github.com/user-attachments/assets/f1bfee11-c58f-43d6-b87e-a623c55ed092" />
 
 </p>
 
