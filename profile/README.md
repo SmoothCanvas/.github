@@ -50,6 +50,9 @@ This project focuses on creativity, minimal design, and real-time free-hand draw
   <li>⚡ Fast and responsive interaction</li>
   <li>🌈 Creative sketching environment</li>
   <li>📱 Simple and user-friendly design</li>
+  <li> Tv Integration </li>
+  <img width="1302" height="708" alt="image" src="https://github.com/user-attachments/assets/ad4bb857-2196-43c6-bf5c-3e391cf298ca" />
+
 </ul>
 
 ---
