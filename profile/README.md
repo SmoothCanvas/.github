@@ -36,7 +36,10 @@ This project focuses on creativity, minimal design, and real-time free-hand draw
 <img width="1917" height="960" alt="image" src="https://github.com/user-attachments/assets/1aa733ce-e011-43d0-88ef-02b3197ff7dc" />
 <img width="1911" height="963" alt="image" src="https://github.com/user-attachments/assets/34764a60-7f4f-460c-8443-372771988e69" />
 <img width="1904" height="961" alt="image" src="https://github.com/user-attachments/assets/b63e597f-9d3a-4473-8bee-a4b1024c043c" />
-https://github.com/SmoothCanvas/lib/blob/main/README.md
+<img width="1907" height="957" alt="image" src="https://github.com/user-attachments/assets/6b970dfc-a205-4f00-ae1a-1e70acb33669" />
+<img width="1918" height="950" alt="image" src="https://github.com/user-attachments/assets/c1738ca3-a0c5-4d8d-a06d-f55b80fe1061" />
+<img width="1918" height="950" alt="image" src="https://github.com/user-attachments/assets/770d444f-139f-4992-b160-a28351b90caa" />
+<img width="1912" height="954" alt="image" src="https://github.com/user-attachments/assets/0e93e990-ca39-45e9-a2e9-e852aff58756" />
 
 </p>
 
